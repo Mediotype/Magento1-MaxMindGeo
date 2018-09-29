@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<config>
+    <modules>
+        <Mediotype_MaxMindGeo>
+            <active>true</active>
+            <codePool>community</codePool>
+        </Mediotype_MaxMindGeo>
+        <depends>
+            <Mage_Core/>
+            <Mediotype_Core/>
+            <Mediotype_MagentoGuzzle/>
+        </depends>
+    </modules>
+</config>

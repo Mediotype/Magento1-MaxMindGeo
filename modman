@@ -1,0 +1,4 @@
+app/code/community/Mediotype/MaxMindGeo/ app/code/community/Mediotype/MaxMindGeo/
+app/design/adminhtml/base/default/layout/mediotype/geoip.xml app/design/adminhtml/base/default/layout/mediotype/geo.xml
+app/design/adminhtml/base/default/template/mediotype/geoip/ app/design/adminhtml/base/default/template/mediotype/geoip/
+app/etc/modules/Mediotype_MaxMindGeo.xml app/etc/modules/Mediotype_MaxMindGeo.xml
